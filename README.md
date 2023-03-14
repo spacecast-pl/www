@@ -15,6 +15,8 @@
 + Firmy Polskie powiązane z kosmicznymi produktami
 + Projekty wdrażane
 + Polskie kooperacje na świecie w branzy kosmicznej
++ Przegląd patentów
++ Wydarzenia w PL
 
 
 ## tematy
@@ -24,6 +26,7 @@
 + DigitalTwins
 + Tokomak
 + Iter
+
 
 
 ## Goście
