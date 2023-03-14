@@ -11,18 +11,19 @@
 
 ## Zakres tematyczny
 
-+ Space Agency
-+ Inkuboatory w Polsce
 + Projekty Kosmiczne
 + Firmy Polskie powiązane z kosmicznymi produktami
 + Projekty wdrażane
 + Polskie kooperacje na świecie w branzy kosmicznej
 
 
-
 ## tematy
 
-+ 
++ Space Agency
++ Inkuboatory w Polsce
++ DigitalTwins
++ Tokomak
++ Iter
 
 
 ## Goście
