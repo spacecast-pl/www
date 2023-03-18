@@ -31,7 +31,7 @@
 
 ## Aktualności 
 
-Trwają przygotowania do podcastu n/t kosmosu, będziemy nagrywać i poszukiwać z Kamil Kołodziński Polski w Kosmosie ;) 
+Trwają przygotowania do podcastu n/t kosmosu, będziemy nagrywać i poszukiwać z Kamilem Polski w Kosmosie ;) 
 
 ![Screenshot from 2023-03-18 10-46-29](https://user-images.githubusercontent.com/5669657/226098178-843c5820-2aaa-415a-b871-30ed582f2615.png)
 
