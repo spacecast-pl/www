@@ -4,6 +4,7 @@
 ![spacecast pl-box](https://user-images.githubusercontent.com/5669657/225055270-207ad5b9-8868-44c5-a3cb-7253bdb0c8eb.png)
 
 
+
 ## prowadzący
 
 + Kamil
@@ -29,12 +30,7 @@
 + Iter
 
 
-
-## Goście
-
-+ Maciej Węgrzyn
-+ Olek Suchodolski
-+ ...
+![Screenshot from 2023-03-18 10-46-29](https://user-images.githubusercontent.com/5669657/226098178-843c5820-2aaa-415a-b871-30ed582f2615.png)
 
 
 ---
