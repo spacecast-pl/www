@@ -7,8 +7,8 @@
 
 ## prowadzący
 
-+ Kamil
-+ Tomasz
++ [Kamil](https://www.linkedin.com/in/kamilkolodzinski/)
++ [Tomasz](https://www.linkedin.com/in/tom-sapletta-com/)
 
 
 ## Zakres tematyczny
