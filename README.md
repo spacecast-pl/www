@@ -10,7 +10,14 @@
 + [inkubatory](https://inkubatory.spacecast.pl/)
 + [startupy](https://startupy.spacecast.pl/)
 + [projekty](https://projekty.spacecast.pl/)
++ [edukacja](https://edukacja.spacecast.pl/)
++ [certyfikaty](https://certyfikaty.spacecast.pl/)
++ [wydarzenia](https://wydarzenia.spacecast.pl/)
++ [dofinansowanie](https://dofinansowanie.spacecast.pl/)
 
++ [podcast](https://podcast.spacecast.pl/)
+
+podcast.spacecast.pl
 
 ## Prowadzący
 
