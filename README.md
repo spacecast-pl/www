@@ -1,11 +1,11 @@
-# [Space Cast](http://www.spacecast.pl)
+# [Space Cast - Polska w kosmosie](http://www.spacecast.pl)
 
 
 ![spacecast pl-box](https://user-images.githubusercontent.com/5669657/225055270-207ad5b9-8868-44c5-a3cb-7253bdb0c8eb.png)
 
 
 
-## prowadzący
+## Prowadzący
 
 + [Kamil](https://www.linkedin.com/in/kamilkolodzinski/)
 + [Tomasz](https://www.linkedin.com/in/tom-sapletta-com/)
@@ -21,7 +21,7 @@
 + Wydarzenia w PL
 
 
-## tematy
+## Tematy
 
 + Space Agency
 + Inkuboatory w Polsce
@@ -29,6 +29,9 @@
 + Tokomak
 + Iter
 
+## Aktualności 
+
+Trwają przygotowania do podcastu n/t kosmosu, będziemy nagrywać i poszukiwać z Kamil Kołodziński Polski w Kosmosie ;) 
 
 ![Screenshot from 2023-03-18 10-46-29](https://user-images.githubusercontent.com/5669657/226098178-843c5820-2aaa-415a-b871-30ed582f2615.png)
 
