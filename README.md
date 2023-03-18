@@ -3,6 +3,13 @@
 
 ![spacecast pl-box](https://user-images.githubusercontent.com/5669657/225055270-207ad5b9-8868-44c5-a3cb-7253bdb0c8eb.png)
 
+## Menu
+
++ [partnerzy](https://partnerzy.spacecast.pl/)
++ [organizacje](https://organizacje.spacecast.pl/)
++ [inkubatory](https://inkubatory.spacecast.pl/)
++ [startupy](https://startupy.spacecast.pl/)
++ [projekty](https://projekty.spacecast.pl/)
 
 
 ## Prowadzący
